@@ -1,0 +1,9 @@
+1 - install virtual environment using pip
+pip3 install pipenv
+
+2 - to activate env
+pipenv shell
+
+
+3 - install dependancies
+pipenv install flask flask-sqlalchemy flask-marchmallow marshmallow-sqlalchemy
